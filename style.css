@@ -1,0 +1,59 @@
+*{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+body{
+    margin: 0px;
+}
+h1{
+    color:blue;
+    text-align: center;
+}
+
+h2{
+    color: red;
+}
+
+.hobby{
+    text-align: center;
+    margin-top: 50px;
+    
+    
+}
+
+.hList{
+    list-style: none;
+}
+.hList li{
+    margin-bottom:5px;
+    margin-top:5px;
+}
+.but{
+    background-color: green;
+    border-radius:5px;
+    font-size:20px;
+    font-weight: bold;
+
+}
+
+.navul{
+    list-style: none;
+    background-color: ghostwhite;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.navul li{
+    display:inline;
+    margin-left:5px;
+    margin-right:5px;
+}
+
+
+.navul li a{
+    text-decoration: none;
+
+}
+
+nav{
+    text-align: center;
+}
